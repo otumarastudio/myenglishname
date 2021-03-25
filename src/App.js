@@ -64,14 +64,10 @@ function App() {
         다 부질없어 <br />
         You got me like <br />
       </Container>
+
       <Comments />
       <br />
-      <Divider horizontal>
-        <Header as="h4">
-          <Icon name="external share" />
-          Share with
-        </Header>
-      </Divider>
+
       <br />
       <br />
       <div>
